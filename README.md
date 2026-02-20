@@ -1,3 +1,4 @@
 # Excel_data_analysis_Project
 
-<img width="1670" height="830" alt="image" src="https://github.com/user-attachments/assets/3253e3ff-bf91-4db4-af81-bdfcb1f68378" />
+<img width="1703" height="826" alt="image" src="https://github.com/user-attachments/assets/d8ead924-6372-4b5c-9ac3-7a1a07acbe7e" />
+
