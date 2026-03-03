@@ -25,8 +25,6 @@ Users can filter results by country, segment, product, discount band, and month,
 
 ### Key insights and recommendations:
 - Paseo is the top‑performing product, Amarilla and VTT are the worst-performing products with a loss, and Velo is an underperforming product with no profit. 
-- Analyze the relationship between manufacturing cost and gross profit
 - Revenue and margin trends are consistent over time, with some improvement in both in the 4th quarter of 2014.
-- Evaluate pricing effectiveness and cost efficiency
 - Prioritize products that maximize profitability, such as Paseo.
 
